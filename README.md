@@ -25,6 +25,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Configuration](#configuration)
     - [Cryptography](#cryptography)
     - [Data Analysis](#data-analysis)
+    - [Data Sources](#data-sources)
     - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
     - [Database Drivers](#database-drivers)
@@ -364,6 +365,18 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark.
 * [Orange](https://orange.biolab.si/) - Data mining, data visualization, analysis and machine learning through visual programming or scripts.
 * [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+
+## Data Sources
+
+*Python packages to access different data sources.*
+
+* [Alpha Vantage](https://github.com/RomelTorres/alpha_vantage) - Stock data/cryptocurrencies from the [Alpha Vantage API](https://www.alphavantage.co/).
+* [get_noaa_ghcn_data](https://github.com/aaronpenne/get_noaa_ghcn_data) - Interface to the extensive weather data in the [Global Historical Climatological Network](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn).
+* [huggingface/datasets](https://github.com/huggingface/datasets) - one-line dataloaders for many [huggingface datasets](https://huggingface.co/datasets), including NLP.
+* [Kaggle](https://github.com/Kaggle/kaggle-api) - Official API for data from [Kaggle](https://www.kaggle.com/) competitions. Read [Fetch data from Kaggle with Python](https://medium.com/analytics-vidhya/fetch-data-from-kaggle-with-python-9154a4c610e3) to use it from Python. 
+* [OpenML](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_openml.html) - Scikit-learn has a module to access [OpenML](https://www.openml.org/) datasets.
+* [Quandl](https://www.quandl.com/tools/python) - Financial data (stock prices and trading data) from [Quandl](https://www.quandl.com/).
+* [Stravalib](https://github.com/hozn/stravalib) - Simple API for interacting with [Strava](https://strava.com/), tracking running, cycling and other physical activities with GPS data.
 
 ## Data Validation
 
